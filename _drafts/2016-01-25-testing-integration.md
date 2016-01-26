@@ -9,6 +9,6 @@ permalink: >
   http://techvault.svds.io/wordpress/?p=112
 published: false
 ---
-Post text.
+Edit post text.
 
 Add more text.
