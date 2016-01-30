@@ -6,7 +6,7 @@ post_date: 2016-01-29 21:56:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://techvault.svds.io/wordpress/testing/
+  http://techvault.svds.io/wordpress/techvaultplanning/
 published: true
 vortex_system_likes:
   - "0"
